@@ -3,4 +3,9 @@ second commit
 rahul
 ravi
 stash changes
+<<<<<<< HEAD
 mergeijsdk
+=======
+merge
+merge conflict
+>>>>>>> master
